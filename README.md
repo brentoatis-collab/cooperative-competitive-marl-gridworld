@@ -1,3 +1,6 @@
+> **Applied AI portfolio project by Brent Oatis, MBA**
+> Studying how multiple agents coordinate and compete under shared operational constraints.
+
 # Multi-Agent Reinforcement Learning in GridWorld  
 **Cooperative vs Competitive Agent Design**
 Author: Brent Oatis  
